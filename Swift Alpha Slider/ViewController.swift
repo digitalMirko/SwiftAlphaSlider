@@ -18,9 +18,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
     }
+    
 
     @IBAction func sliderMoved(_ sender: Any) {
-        
+         
     }
     
 }
