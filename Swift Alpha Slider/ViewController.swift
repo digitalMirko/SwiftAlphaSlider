@@ -16,12 +16,16 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        // when the app starts the alpha level is .5
+        self.alphaLabel.alpha = 0.5
         
     }
     
 
-    @IBAction func sliderMoved(_ sender: Any) {
-         
+    @IBAction func sliderMoved(_ sender: UISlider) {
+        // value of the slider is the value of the alpha of the text
+        self.alphaLabel.alpha = CGFloat(sender.value)
+        
     }
     
 }
