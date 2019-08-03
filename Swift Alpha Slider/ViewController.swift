@@ -9,12 +9,19 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    // Alpha Slider label
+    @IBOutlet weak var alphaLabel: UILabel!
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
     }
 
-
+    @IBAction func sliderMoved(_ sender: Any) {
+        
+    }
+    
 }
 
