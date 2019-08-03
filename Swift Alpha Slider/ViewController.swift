@@ -5,6 +5,7 @@
 //  Created by Mirko Cukich on 8/3/19.
 //  Copyright © 2019 Digital Mirko. All rights reserved.
 //
+//  Swift Alpha Slider - Demo 2 of 30
 
 import UIKit
 
