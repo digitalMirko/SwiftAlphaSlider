@@ -11,7 +11,7 @@ the right and the alpha level changes on the text right above. The alpha level s
 When the slider is moved all the way to the right the alpha level is 1 and you can see the text 100%(1) full in black color. But
 when you slide the slider all the way to the right the alpha level is 0%(0) and the text is invisible.
 
-Coming soon:
+Coming soon:<br>
 Details and the screen cap images of the app in use can be found on <a href="http://digitalmirko.com/iOSApps.html">Digital Mirko</a>.
 
 Screen Cap on a iPhone Xr device:(shown below)</br>
